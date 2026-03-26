@@ -1,5 +1,5 @@
 # CSE0001: My Digital Literacy Portfolio 🚀
-**By [Your Name] | Reg No: [Your Reg No]**
+**By Abhinav Jain | Reg No: 25BAI10234**
 
 Hi! I'm a first-year student at VIT Bhopal. This repository is my final project for the Digital Literacy course. I was selected as a "Student Digital Ambassador," so I've put together some resources here to help my batchmates navigate college life online safely and professionally.
 
